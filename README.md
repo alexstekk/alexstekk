@@ -16,7 +16,7 @@ I'm Alexander, frontend dev based in Krasnodar.
 <a href="https://t.me/AlexStekk">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=alexstekk&hide=stars,contribs,issues&show_icons=true&theme=dark" />
 </a>
-<a href="[https://github.com/anuraghazra/convoychat](https://t.me/AlexStekk)">
+<a href="https://t.me/AlexStekk">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexstekk&layout=compact&theme=dark" />
 </a>
 </p>
