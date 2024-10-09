@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I'm Alexander, frontend dev based in Krasnodar. 
+I'm Alexander, frontend dev with 2+ year experience based in Krasnodar, Russia.
 
 
 
@@ -31,13 +31,9 @@ I'm Alexander, frontend dev based in Krasnodar.
 <p>  
 <a href="https://t.me/AlexStekk">
 <img height="40" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-  <span>&nbsp;</span>
-<a href="mailto:alexstekk@yandex.ru">
+</a><span>&nbsp;</span><a href="mailto:alexstekk@yandex.ru">
 <img height="40" src="https://img.shields.io/badge/EMAIL-blue?style=for-the-badge&logo=maildotru&logoColor=white" />
-</a>
- <span>&nbsp;</span>
-<a href="https://www.linkedin.com/in/alexstekolschikov/">
+</a><span>&nbsp;</span><a href="https://www.linkedin.com/in/alexstekolschikov/">
 <img height="40" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 </p>
