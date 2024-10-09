@@ -1,14 +1,14 @@
-## Hi! 👋
+# Welcome! 👋
 I'm Alexander, frontend dev based in Krasnodar.
 
-### My skills
+## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,github,npm,sass)](https://t.me/AlexStekk)
 
-### Contacts
-<p>
-  
-<a href="https://t.me/AlexStekk" style="display:flex; align-items:center"><img height="50" width="50" src="https://cdn.simpleicons.org/telegram/white" /></a>
-<a href="mailto:alexstekk@yandex.ru" style="display:flex; align-items:center"><img height="50" width="50" src="https://cdn.simpleicons.org/maildotru/white" /></a>
+## Contacts
+<p>  
+<a href="https://t.me/AlexStekk"><img height="50" width="50" src="https://cdn.simpleicons.org/telegram/white" /></a>
+  <span>&nbsp;</span>
+<a href="mailto:alexstekk@yandex.ru"><img height="50" width="50" src="https://cdn.simpleicons.org/maildotru/white" /></a>
 </p>
 
 
