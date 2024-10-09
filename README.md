@@ -1,7 +1,6 @@
 # Welcome! 👋
 
-I'm Alexander, frontend dev with 2+ year experience based in Krasnodar, Russia.
-
+I'm Alexander, frontend dev with 2+ year experience based in Krasnodar, Russia.   
 
 
 ## Skills
